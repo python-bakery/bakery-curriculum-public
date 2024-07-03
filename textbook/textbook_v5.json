@@ -1,0 +1,120 @@
+{
+    "version": 5,
+    "settings": {},
+    "content": [
+        { "header": "Chapter 1) Introduction", "reading": "bakery_intro_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_intro_a", "content": [
+                { "header": "1) Introduction", "reading": "bakery_intro_cs_read" },
+                { "header": "2) Programming", "reading": "bakery_intro_programs_read" },
+                { "header": "3) Console I/O", "reading": "bakery_intro_console_read" },
+                { "header": "4) Values", "reading": "bakery_intro_values_read" },
+                { "header": "5) Types", "reading": "bakery_intro_types_read" },
+                { "header": "6) Math", "reading": "bakery_intro_math_read" },
+                { "header": "7) Logic", "reading": "bakery_intro_logic_read" },
+                { "header": "8) Interactive Evaluation", "reading": "bakery_intro_eval_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_intro_a", "content": [
+                { "header": "1) Variables", "reading": "bakery_intro_variables_read" },
+                { "header": "2) Tracing", "reading": "bakery_intro_tracing_read" },
+                { "header": "3) Modules", "reading": "bakery_intro_modules_read" },
+                { "header": "4) Comments", "reading": "bakery_intro_comments_read" },
+                { "header": "5) Import", "reading": "bakery_intro_import_read" },
+                { "header": "6) Strings", "reading": "bakery_intro_strings_read" },
+                { "header": "7) String Operations", "reading": "bakery_intro_string_ops_read" },
+                { "header": "8) Errors", "reading": "bakery_intro_errors_read" }
+            ]}
+        ]},
+        { "header": "Chapter 2) Functions", "reading": "bakery_functions_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_functions_a", "content": [
+                { "header": "1) Calling Functions", "reading": "bakery_functions_calling_read" },
+                { "header": "2) Built-in Functions", "reading": "bakery_functions_builtins_read" },
+                { "header": "3) Defining Functions", "reading": "bakery_functions_defining_read" },
+                { "header": "4) Function Checklist", "reading": "bakery_functions_checklist_read" },
+                { "header": "5) Testing Functions", "reading": "bakery_functions_testing_read" },
+                { "header": "6) Debugging", "reading": "bakery_functions_debugging_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_functions_b", "content": [
+                { "header": "1) Scopes and Bodies", "reading": "bakery_functions_scopes_read" },
+                { "header": "2) Docstrings", "reading": "bakery_functions_docstrings_read" },
+                { "header": "3) Function Data Flow", "reading": "bakery_functions_flow_read" },
+                { "header": "4) External Functions", "reading": "bakery_functions_external_read" }
+            ]}
+        ]},
+        { "header": "Chapter 3) If Statements", "reading": "bakery_if_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_if_a", "content": [
+                { "header": "1) If Statements", "reading": "bakery_if_syntax_read" },
+                { "header": "2) Truthiness", "reading": "bakery_if_truthiness_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_if_b", "content": [
+                { "header": "1) Nested If Statements", "reading": "bakery_if_nesting_read" },
+                { "header": "2) Logical Patterns", "reading": "bakery_if_patterns_read" },
+                { "header": "3) Events", "reading": "bakery_if_events_read" }
+            ]}
+        ]},
+        { "header": "Chapter 4) Structures", "reading": "bakery_structures_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_structures_a", "content": [
+                { "header": "1) Dataclasses", "reading": "bakery_structures_dataclasses_read" },
+                { "header": "2) Using Dataclasses", "reading": "bakery_structures_dataclass_ops_read" },
+                { "header": "3) Worlds", "reading": "bakery_structures_worlds_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_structures_b", "content": [
+                { "header": "1) Lists", "reading": "bakery_structures_lists_read" },
+                { "header": "2) List Operations", "reading": "bakery_structures_list_ops_read" },
+                { "header": "3) Mutablity", "reading": "bakery_structures_mutability_read" }
+            ]}
+        ]},
+        { "header": "Chapter 5) Project 1", "reading": "bakery_project1_primer_read", "content": [
+        ]},
+        { "header": "Chapter 6) For Loops", "reading": "bakery_for_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_for_a", "content": [
+                { "header": "1) For Loops", "reading": "bakery_for_loops_read" },
+                { "header": "2) Loop Patterns 1", "reading": "bakery_for_patterns_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_for_b", "content": [
+                { "header": "1) Loop Patterns 2", "reading": "bakery_for_patterns2_read" },
+                { "header": "2) Loop Composition", "reading": "bakery_for_composition_read" }
+            ]},
+            { "header": "Loop Pattern Reference Sheet", "reading": "bakery_for_reference_loop_patterns_sheet"}
+        ]},
+        { "header": "Chapter 7) Sequences", "reading": "bakery_sequences_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_sequences_a", "content": [
+                { "header": "1) Index Iteration", "reading": "bakery_sequences_indexes_read" },
+                { "header": "2) String Iteration", "reading": "bakery_sequences_strings_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_sequences_b", "content": [
+                { "header": "2) Filesystems", "reading": "bakery_sequences_filesystems_read" },
+                { "header": "3) Files", "reading": "bakery_sequences_files_read" }
+            ]}
+        ]},
+        { "header": "Chapter 8) Nesting Data", "reading": "bakery_nesting_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_nesting_a", "content": [
+                { "header": "1) Lists of Dataclasses", "reading": "bakery_nesting_list_dataclasses_read" },
+                { "header": "2) Nested Dataclasses", "reading": "bakery_nesting_2d_dataclasses_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_nesting_b", "content": [
+                { "header": "3) Nested Lists", "reading": "bakery_nesting_2d_lists_read" },
+                { "header": "1) Heavily Nested Data", "reading": "bakery_nesting_heavy_read" }
+            ]}
+        ]},
+        { "header": "Chapter 9) Time", "reading": "bakery_time_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_time_a", "content": [
+                { "header": "1) While Loops", "reading": "bakery_time_while_read" },
+                { "header": "2) While Loop Patterns", "reading": "bakery_time_while_patterns_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_time_b", "content": [
+                { "header": "1) Time Complexity", "reading": "bakery_time_complexity_read" },
+                { "header": "2) Sorting", "reading": "bakery_time_sorting_read" }
+            ]}
+        ]},
+        { "header": "Chapter 10) Project 2", "reading": "bakery_project2_primer_read", "content": [
+        ]},
+        { "header": "Chapter 11) Advanced Topics", "reading": "bakery_advanced_primer_read", "content": [
+            { "header": "Part A", "group": "bakery_advanced_a", "content": [
+                { "header": "1) Plotting", "reading": "bakery_advanced_plotting_read" }
+            ]},
+            { "header": "Part B", "group": "bakery_advanced_b", "content": [
+                { "header": "1) Recursion and Trees", "reading": "bakery_advanced_recursion_read" }
+            ]}
+        ]}
+    ]
+}

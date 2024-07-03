@@ -1,0 +1,1 @@
+temperatures = [10, 20, 5]
