@@ -1,0 +1,434 @@
+{
+  "./intro-to-python\\2-core-ideas\\1-cs\\index.yml": [
+    "Define the terms Computer Science, programs, and programming.",
+    "Explain abilities and limitations of programs.",
+    "Recognize synonyms for programs."
+  ],
+  "./intro-to-python\\2-core-ideas\\2-programs\\index.yml": [
+    "Recognize synonyms for program execution.",
+    "Justify the use of Python compared to other language options."
+  ],
+  "./intro-to-python\\2-core-ideas\\12-comments\\index.yml": [
+    "Use comments to explain the behavior of code.",
+    "Recognize synonymous names for the comment symbol in Python.",
+    "Avoid using comments by choosing good variable names.",
+    "Defend the depth, detail, and quantity of comments in a program.",
+    "Use comments to temporarily remove code from a program.",
+    "Trace code that incorporates comments."
+  ],
+  "./intro-to-python\\2-core-ideas\\13-import\\index.yml": [
+    "Define the terms module, package, and library.",
+    "Write import statements to load variables from other modules.",
+    "Interpret two kinds of import statements\u2019 syntax.",
+    "Create a new Python module.",
+    "Explain the purpose of the Python Standard Library."
+  ],
+  "./intro-to-python\\2-core-ideas\\14-strings\\index.yml": [
+    "Define the concept of a string in Python.",
+    "Define the concept of characters in Python.",
+    "Use single, double, and triple quotes to create string literal values.",
+    "Define the concept of escape characters in Python.",
+    "Create strings that incorporate escape characters.",
+    "Differentiate between number values and strings involving numeric characters.",
+    "Differentiate between strings and variables.",
+    "Explain the purpose of having single, double, and triple quote strings instead of just a single kind of string."
+  ],
+  "./intro-to-python\\2-core-ideas\\15-string_ops\\index.yml": [
+    "List the operations that are allowed on strings in Python.",
+    "Explain how the addition, comparison, membership, and subscripting operators work on strings in Python.",
+    "Evaluate string operations involving addition, comparison, membership, and subscripting in Python.",
+    "Differentiate between indexing and slicing strings.",
+    "Choose appropriate indices to correctly index and slice strings.",
+    "Interpret negative indices in subscripts."
+  ],
+  "./intro-to-python\\2-core-ideas\\16-errors\\index.yml": [
+    "Define the term Error when it comes to coding.",
+    "Interpret a Python error message including the traceback.",
+    "List and describe common Python error types.",
+    "Debug simple errors in Python code."
+  ],
+  "./intro-to-python\\2-core-ideas\\3-console\\index.yml": [
+    "Explain the steps of program execution.",
+    "Give examples of input and output for programs.",
+    "Write basic python code using print and input to interact with the user.",
+    "Explain how programs fundamentally work by transforming data."
+  ],
+  "./intro-to-python\\2-core-ideas\\4-values\\index.yml": [
+    "Abstract information from the real world as values in the computer.",
+    "Define the term abstraction.",
+    "Write code to define and print literal values in Python.",
+    "Explain the limitations of data for providing context."
+  ],
+  "./intro-to-python\\2-core-ideas\\5-types\\index.yml": [
+    "Differentiate between the different types in Python.",
+    "Create integer, float, string, boolean, and none values."
+  ],
+  "./intro-to-python\\2-core-ideas\\6-math\\index.yml": [
+    "Define the terms operator and operand.",
+    "Evaluate math operations in Python using the seven numeric operators.",
+    "Recall the order that math operators are evaluated in Python.",
+    "Predict the result type of operations involving integer and float type operands."
+  ],
+  "./intro-to-python\\2-core-ideas\\7-logic\\index.yml": [
+    "Write logical expressions that use comparison and Boolean operators.",
+    "Evaluate comparison and Boolean operations.",
+    "Nest mathematical, comparison, and Boolean operators in complex expressions.",
+    "Debug incorrect Boolean operator expressions."
+  ],
+  "./intro-to-python\\2-core-ideas\\8-eval\\index.yml": [
+    "Identify the parts and whole of an expression in Python.",
+    "Evaluate an expression in Python using math, comparison, and logic operators.",
+    "Explain the implications of the substitution model used by Python on the execution of expressions.",
+    "Explain the purpose of the Print function in Python.",
+    "Explain the purpose of the terminal to execute Python code interactively."
+  ],
+  "./intro-to-python\\2-core-ideas\\9-variables\\index.yml": [
+    "Explain the purpose of variables in Python.",
+    "Explain the relationship between variables and values.",
+    "Write code to define, update, and use variables in Python.",
+    "Contrast how variables work in Python compared to mathematics.",
+    "List the rules for Python variable names.",
+    "Decide whether a variable name is valid.",
+    "Evaluate a variable for its correctness, conciseness, consistency, conventionality, and clarity.",
+    "Explain the downside of bad variable names."
+  ],
+  "./intro-to-python\\2-core-ideas\\10-tracing\\index.yml": [
+    "Explain how variables have a lifetime.",
+    "Trace the values of variables in a program.",
+    "Differentiate between assignment statements and equality comparisons.",
+    "Recognize equivalent terminology for common variable operations.",
+    "Determine whether a variable has been defined before it is used."
+  ],
+  "./intro-to-python\\2-core-ideas\\11-modules\\index.yml": [
+    "Explain how programs are executed step by step.",
+    "Differentiate between statements and expressions."
+  ],
+  "./intro-to-python\\3-functions\\1-calling\\index.yml": [
+    "Define and justify the use of functions.",
+    "Define critical terminology of functions including arguments and return values.",
+    "Write valid function calls with arguments.",
+    "List synonyms for calling a function.",
+    "Explain the importance of parentheses in writing function calls.",
+    "Compare and contrast programs and functions.",
+    "Write valid method calls on a value.",
+    "Explain how functions can be called.",
+    "Evaluate a function call to predict the returned value."
+  ],
+  "./intro-to-python\\3-functions\\2-builtins\\index.yml": [
+    "List several built-in functions that are available in Python.",
+    "Upon being given documentation for a built-in function, use that function.",
+    "Define and contrast the terms parameters and arguments in the context of existing functions.",
+    "Evaluate nested function and chained method calls.",
+    "Evaluate complex expressions that involve function and method calls.",
+    "Write code that involves `print` and `input` function calls.",
+    "Explain how `print` and `input` interact with the terminal.",
+    "Describe and use the four basic conversion functions (`int`, `str`, `float`, and `bool`)."
+  ],
+  "./intro-to-python\\3-functions\\3-defining\\index.yml": [
+    "Define syntactically correct functions.",
+    "Identify all the parts of a function including the header and body.",
+    "Define the terms parameter, return, header, body, call, definition, and name.",
+    "Write syntactically correct function calls for newly defined functions.",
+    "Use a `pass` statement to create an empty function.",
+    "Explain how arguments are assigned to parameters.",
+    "Explain the behavior of calling a function in terms of control and data flow.",
+    "Explain how a `return` statement interrupts control flow.",
+    "Trace simple function calls to user-defined functions."
+  ],
+  "./intro-to-python\\3-functions\\4-testing\\index.yml": [
+    "Define the concept of a unit test.",
+    "Explain the purpose of unit testing.",
+    "Interpret a failed unit test.",
+    "Suggest general related cases of input for testing different types of values.",
+    "Upon being given a description of a function, create valid and thorough tests.",
+    "Evaluate if a collection of tests is valid and thorough.",
+    "List the order of steps when writing a function with regard to testing."
+  ],
+  "./intro-to-python\\3-functions\\5-debugging\\index.yml": [
+    "Use a debugger to trace an incorrect program and predict its value.",
+    "List the steps of the scientific method to approach debugging a program.",
+    "Use Wolf Fence debugging to isolate the region of code with an error.",
+    "Explain how Rubber Duck debugging helps identify an error with code."
+  ],
+  "./intro-to-python\\3-functions\\6-scopes\\index.yml": [
+    "Define and differentiate the terms scope and body in the context of Python source code.",
+    "Identify the bodies in a Python program.",
+    "Identify the scopes in a Python program.",
+    "Determine whether a variable is in a scope.",
+    "Define and differentiate the concepts of global scope and local scope.",
+    "Explain why functions return values, but not variables.",
+    "Recall and explain the two scope rules.",
+    "Explain the behavior of variables with the same name within and across scopes.",
+    "Identify whether a variable is a global constant.",
+    "Explain the danger of global variables.",
+    "Explain the benefit of global constants."
+  ],
+  "./intro-to-python\\3-functions\\7-docstrings\\index.yml": [
+    "Lists reasons to document code.",
+    "Create a single-line comment.",
+    "Create a multi-line comment that is syntactically valid.",
+    "Evaluate and justify how much documentation should be provided for a program.",
+    "Write a docstring for a function.",
+    "Interpret the docstring of a function.",
+    "Place a docstring correctly relative to the header and body of a function."
+  ],
+  "./intro-to-python\\3-functions\\8-flow\\index.yml": [
+    "List the rules for scopes in Python.",
+    "Trace the value of variables, parameters, and arguments over function calls.",
+    "Evaluate nested function calls that may occur inside of function definitions.",
+    "Explain the concept of a stack frame.",
+    "Interpret stack frames for a given point in time of a program.",
+    "Write function calls that move data between function definitions, with and without temporary variables."
+  ],
+  "./intro-to-python\\4-if\\1-syntax\\index.yml": [
+    "Explain the purpose of `if` statements in Python.",
+    "Identify the syntactic components of an `if` statement.",
+    "Evaluate a conditional expression.",
+    "Identify whether code is inside, before, or after the body of an `if` statement.",
+    "Explain the purpose of an `else` body.",
+    "Count the number of branches in a simple `if` statement.",
+    "Trace the execution of an `if` statement with and without an `else` body.",
+    "Explain how `if` statements can skip over lines of code during execution."
+  ],
+  "./intro-to-python\\4-if\\2-truthiness\\index.yml": [
+    "Explain the concept of Truthiness in Python.",
+    "Evaluate any expression in terms of Truthiness.",
+    "Simplify a comparison using the rules of Truthiness.",
+    "List the Falsey values for all the primitive types.",
+    "Recognize when Truthiness is involved accidentally in a conditional.",
+    "Describe examples where Truthiness can improve the readability of code."
+  ],
+  "./intro-to-python\\4-if\\3-nesting\\index.yml": [
+    "Write syntactically valid nested conditional statements.",
+    "Count the number of branches in nested conditional statements.",
+    "Determine the appropriate number of spaces in nested conditional statements.",
+    "Trace the value of variables across nested conditional statements.",
+    "Explain the purpose of `elif` statements.",
+    "Justify whether a statement should be before, inside, or after an `if` statement.",
+    "Differentiate between `elif` statements and chained `if` statements.",
+    "Determine if two nested conditional structures are equivalent.",
+    "Determine if an `if` statement inside of a function is redundant.",
+    "Determine if an equality check is redundant."
+  ],
+  "./intro-to-python\\4-if\\4-patterns\\index.yml": [
+    "Determine if two complex nested control structures are functionality equivalent.",
+    "Compare two equivalent control structures in terms of readability and robustness against programmer errors.",
+    "Translate between nested `if` statements and conditions with `and` chains.",
+    "Use a Defensive Guard or Early Return to avoid errors in programs.",
+    "Trace the flow of multiple return statements into a function.",
+    "Translate function logic between Multiple Return Spots and the Build-Up-Return styles.",
+    "Use the Define-And-Refine pattern to avoid repetitive `else` statements."
+  ],
+  "./intro-to-python\\5-structures\\1-dataclasses\\index.yml": [
+    "Define the concept of dataclasses in Python.",
+    "Create a dataclass definition with fields.",
+    "Write code that imports and uses the dataclass decorator.",
+    "Create an instance of a dataclass.",
+    "Explain the difference between a dataclass and an instance.",
+    "Identify the fields of a dataclass, including their name and types.",
+    "Write code that accesses the values in dataclass instance\u2019s fields."
+  ],
+  "./intro-to-python\\5-structures\\3-returning_dataclasses\\index.yml": [
+    "Define a function that returns an instance of a dataclass.",
+    "Explain the difference between a function returning a mutably updated instance compared to returning a new instance of a dataclass.",
+    "Define a function that converts a dataclass from one type to another type of dataclass."
+  ],
+  "./intro-to-python\\5-structures\\4-lists\\index.yml": [
+    "Define the concept of the list type.",
+    "Write list literals, including both empty and non-empty lists.",
+    "Identify the element type of a non-empty list.",
+    "Predict the output of printing a list.",
+    "Recall that a list can be empty while still being a list.",
+    "Evaluate the truthiness of a list.",
+    "Interpret a stack/heap diagram involving a list.",
+    "Choose the appropriate parameter type and/or return type for a function that consumes and/or returns a list.",
+    "Differentiate between the terms list and array."
+  ],
+  "./intro-to-python\\5-structures\\5-list_ops\\index.yml": [
+    "Write indexing and subscripting expressions to access data inside of a list.",
+    "Write membership tests to determine if elements are in a list.",
+    "Write equality tests to determine if two lists are equal.",
+    "Call append and pop methods to add and remove elements from a list.",
+    "Recall that you cannot use order comparison operators or math operators with lists."
+  ],
+  "./intro-to-python\\5-structures\\6-mutability\\index.yml": [
+    "Explain the concept of mutability in Python.",
+    "List whether each type of value is mutable or immutable.",
+    "Write code to mutate a list or dataclass.",
+    "Debug a list append that is incorrectly assigning.",
+    "Trace the behavior of a function that mutates a parameter."
+  ],
+  "./intro-to-python\\6-for\\1-loops\\index.yml": [
+    "Explain the advantage of a `for` loop.",
+    "Trace the values of variables in a `for` loop.",
+    "Write a syntactically valid `for` loop.",
+    "Identify the type of the iteration variable in a `for` loop.",
+    "Describe how a `for` loop initializes an iteration variable.",
+    "Explain the relationship between the iteration variable and the iteration list.",
+    "Identify the code inside, before, and after the body of a `for` loop.",
+    "Describe the looping behavior of a `for` loop.",
+    "Recall that `for` loops do not have separate scope.",
+    "Interpret a stack/heap diagram to trace the values in a `for` loop."
+  ],
+  "./intro-to-python\\6-for\\2-patterns\\index.yml": [
+    "List and describe the use cases of the basic `for` loop patterns.",
+    "Use the count pattern to count the elements in a list.",
+    "Use the sum pattern to add numbers in a list.",
+    "Use the accumulate pattern to combine strings.",
+    "Use the accumulate pattern to combine Boolean values following the \u201dany\u201d and \u201dall\u201d variants.",
+    "Use the map pattern to transform a list.",
+    "Debug a program that is looping infinitely because the loop accidentally appends to its own iteration list.",
+    "Identify whether a statement is before, inside, after, or outside a loop."
+  ],
+  "./intro-to-python\\6-for\\3-patterns\\index.yml": [
+    "List and describe the filter, find, take, and min/max loop patterns.",
+    "Use the filter pattern to remove elements from a list and count only certain elements from a list.",
+    "Use the find pattern to get the first or last element in a list that matches a condition.",
+    "Use the take pattern to get all the elements in a list until a condition is matched.",
+    "Use the min/max pattern to get the highest or lowest element in a list.",
+    "Incorporate a guard before the min/max pattern to avoid index errors."
+  ],
+  "./intro-to-python\\6-for\\4-composition\\index.yml": [
+    "Write code that composes multiple loop patterns.",
+    "Determine whether a function needs to directly loop or indirectly loop.",
+    "Determine the appropriate order that helper functions should be called in.",
+    "Use a guard to correctly compose filter/take patterns with min/max patterns."
+  ],
+  "./intro-to-python\\7-sequences\\1-indexes\\index.yml": [
+    "Explain the difference between iterating over indexes and iterating over values.",
+    "Determine if a situation requires value iteration, index iteration, or iterating over both kinds.",
+    "Use the `len` function to calculate the length of a list.",
+    "Use the `range` function to create a sequence of integers from 0 to that number.",
+    "Use the `enumerate` function to create a sequence of values and indexes from a list.",
+    "Update specific values in a list via their index.",
+    "Update a list of values via their index.",
+    "Describe the tradeoff between copying a list and modifying a list.",
+    "Describe the tradeoffs between working with lists indirectly through indexes as opposed to directly with values.",
+    "Assign multiple variables at once to swap elements in a list."
+  ],
+  "./intro-to-python\\7-sequences\\2-strings\\index.yml": [
+    "Compare and contrast strings and lists in terms of mutability and available operations.",
+    "Use the `split` method to break a string into a list of strings based on a separator.",
+    "Use the `split` method to break a string into a list of strings based on whitespace.",
+    "Write a loop that iterates over a string character by character.",
+    "Write a loop that uses the result of the `split` method to iterate over chunks of a string."
+  ],
+  "./intro-to-python\\7-sequences\\3-filesystems\\index.yml": [
+    "Define the concepts of files and file systems.",
+    "Explain how files are organized into folders.",
+    "Interpret an absolute or relative path.",
+    "Define the concept of the current working directory.",
+    "Determine a relative path based off the current working directory and an absolute path.",
+    "Differentiate between the regular terminal and the Python terminal.",
+    "Use the `ls` command to list files in a directory or the current working directory.",
+    "Use the `cd` command to change the current working directory.",
+    "Use the `pwd` command to print the current working directory."
+  ],
+  "./intro-to-python\\7-sequences\\4-files\\index.yml": [
+    "Describe the purpose of files.",
+    "Write code to open and close a file using functions and methods.",
+    "Write code to read an entire file as a string.",
+    "Write code to process a file line by line.",
+    "List the operations available on a `File` object.",
+    "Debug a `FileNotFoundError` using appropriate strategies.",
+    "Process data from a file by converting values and removing extraneous whitespace characters."
+  ],
+  "./intro-to-python\\8-nesting\\1-list_dataclasses\\index.yml": [
+    "Describe how dataclasses can be nested inside of lists.",
+    "Compare and contrast lists and dataclasses.",
+    "Create a literal list of dataclass instances using constructor functions and list literal syntax.",
+    "Write expressions that access the attributes of a specific element of a list of dataclasses.",
+    "Determine the type and appropriate name for an iteration variable for a list of dataclasses.",
+    "Write expressions that access the attributes of all the instances in a list of dataclasses inside a `for` loop.",
+    "Define a function that consumes and potentially produces a list of dataclasses.",
+    "Apply `for` loop patterns to operate on multiple fields of lists of dataclasses.",
+    "Compose loop patterns together inside of functions that operate on lists of dataclasses.",
+    "Distinguish between the list variable, iteration variable, and accumulation variable when processing a list of dataclasses.",
+    "Develop appropriate test cases for functions that consume a list of dataclasses.",
+    "Interpret a stack/heap diagram that visualizes a list of dataclasses being processed."
+  ],
+  "./intro-to-python\\8-nesting\\2-2d_dataclasses\\index.yml": [
+    "Describe how dataclasses can be nested as attributes of other dataclasses.",
+    "Describe how lists can be nested as attributes of dataclasses.",
+    "Create instances of dataclasses that have dataclasses inside.",
+    "Use attribute access to access data nested in multiple layers of dataclasses.",
+    "Use attribute access and list indexing to access data nested in lists inside of dataclasses.",
+    "Use temporary variables to organize nested attribute access.",
+    "Predict the behavior of updating nested attribute access, regular attribute access, and variables for values on the heap.",
+    "Interpret a stack/heap diagram that shows nested dataclasses.",
+    "Identify the order in which nested dataclasses should be defined.",
+    "Justify a particular level of nesting when designing dataclasses."
+  ],
+  "./intro-to-python\\8-nesting\\3-2d_lists\\index.yml": [
+    "Describe how lists can be nested inside of lists.",
+    "List synonyms of nested lists.",
+    "Identify the outer and inner element type of 2-dimensional lists.",
+    "Write nested loops to iterate over a multi-dimensional list.",
+    "Adapt loop patterns to multi-dimensional lists.",
+    "Iterate over the indexes of multi-dimensional lists.",
+    "Access and update specific elements of a multi-dimensional list.",
+    "Use decomposition to break up complex multi-dimensional list operations."
+  ],
+  "./intro-to-python\\8-nesting\\4-heavy\\index.yml": [
+    "Describe how lists and dataclasses can be generally nested an arbitrary number of times.",
+    "Distinguish between primitive and composite data types.",
+    "Define dataclasses that have lists and dataclasses inside multiple layers.",
+    "Create instances of heavily nested data.",
+    "Write functions that process heavily nested data.",
+    "Use `for` loops, indexing, subscripting, and attribute access to process heavily nested data.",
+    "Interpret a class diagram to determine the control structures needed to process heavily nested data.",
+    "Use temporary variables to break up long attribute access chains."
+  ],
+  "./intro-to-python\\9-time\\1-while\\index.yml": [
+    "Write a syntactically correct `while` loop.",
+    "Trace the execution of a `while` loop.",
+    "Describe the problems associated with infinite loops.",
+    "Compare and contrast `for` loops and `while` loops.",
+    "Compare and contrast `if` statements and `while` loops.",
+    "Recognize and convert a `while` loop that has an equivalent `for` loop.",
+    "Determine if a `while` loop will not be executed."
+  ],
+  "./intro-to-python\\9-time\\2-while_patterns\\index.yml": [
+    "Trace a numeric `while` loop.",
+    "Use a `while` loop to handle potentially incorrect user input.",
+    "Use the Do-Until loop pattern to delay a `while` loop\u2019s conditional check.",
+    "Use the Do-Until loop pattern to avoid redundant user input.",
+    "Use a `while` loop to repeatedly process user input to dispatch commands in a Read-Evaluate-Print-Loop.",
+    "Explain the purpose of intentional infinite loops with the Main Game Loop pattern.",
+    "Trace stochastic behavior of Random Loops.",
+    "Trace complex list iteration using a `while` loop."
+  ],
+  "./intro-to-python\\9-time\\3-complexity\\index.yml": [
+    "List the three main questions that programmers use to evaluate a program.",
+    "Define the terms correctness, readability, and efficiency.",
+    "Compare and contrast different ways of measuring the performance of a program.",
+    "Exactly measure the execution time of a program using a clock.",
+    "Explain how execution time can be related to the size of the input to the program.",
+    "Explain how the RAM model works and its limitations.",
+    "Describe the number of steps that a general kind of statement will take.",
+    "Estimate the number of steps a program takes to execute using the RAM model.",
+    "Give examples of code with constant, linear, and quadratic time relationships.",
+    "Identify programs as taking constant, linear, or quadratic time."
+  ],
+  "./intro-to-python\\9-time\\4-sorting\\index.yml": [
+    "Define the sorting and searching problems.",
+    "Compare and contrast the sorting and searching problems.",
+    "Explain how linear and binary search work.",
+    "Explain how bubble sort and insertion sort work.",
+    "Explain the advantages and limitations of binary search.",
+    "Explain how the values of a list affect the speed of insertion sort.",
+    "Calculate the base-2 logarithm of a number."
+  ],
+  "./intro-to-python\\A-time\\2-recursion\\index.yml": [
+    "Explain the concept of recursion.",
+    "Define the vocabulary of tree data structures.",
+    "Explain the concept of inheritance.",
+    "Determine the attributes of a dataclass inheriting from another dataclass.",
+    "Define a BinaryTree using dataclasses.",
+    "Create an instance of a binary tree.",
+    "Trace recursive functions.",
+    "Create recursive functions.",
+    "Identify the type of variables and expressions in recursive functions.",
+    "List the key parts of recursive functions."
+  ]
+}

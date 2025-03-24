@@ -1,0 +1,324 @@
+1	cs	Define the terms Computer Science, programs, and programming.
+1	cs	Explain abilities and limitations of programs.
+1	cs	Recognize synonyms for programs.
+1	programs	Recognize synonyms for program execution.
+1	programs	Justify the use of Python compared to other language options.
+1	console	Explain the steps of program execution.
+1	console	Give examples of input and output for programs.
+1	console	Write basic python code using print and input to interact with the user.
+1	console	Explain how programs fundamentally work by transforming data.
+1	values	Abstract information from the real world as values in the computer.
+1	values	Define the term abstraction.
+1	values	Write code to define and print literal values in Python.
+1	values	Explain the limitations of data for providing context.
+1	types	Differentiate between the different types in Python.
+1	types	Create integer, float, string, boolean, and none values.
+1	math	Define the terms operator and operand.
+1	math	Evaluate math operations in Python using the seven numeric operators.
+1	math	Recall the order that math operators are evaluated in Python.
+1	math	Predict the result type of operations involving integer and float type operands.
+1	logic	Write logical expressions that use comparison and Boolean operators.
+1	logic	Evaluate comparison and Boolean operations.
+1	logic	Nest mathematical, comparison, and Boolean operators in complex expressions.
+1	logic	Debug incorrect Boolean operator expressions.
+1	eval	Identify the parts and whole of an expression in Python.
+1	eval	Evaluate an expression in Python using math, comparison, and logic operators.
+1	eval	Explain the implications of the substitution model used by Python on the execution of expressions.
+1	eval	Explain the purpose of the Print function in Python.
+1	eval	Explain the purpose of the terminal to execute Python code interactively.
+1	variables	Explain the purpose of variables in Python.
+1	variables	Explain the relationship between variables and values.
+1	variables	Write code to define, update, and use variables in Python.
+1	variables	Contrast how variables work in Python compared to mathematics.
+1	variables	List the rules for Python variable names.
+1	variables	Decide whether a variable name is valid.
+1	variables	Evaluate a variable for its correctness, conciseness, consistency, conventionality, and clarity.
+1	variables	Explain the downside of bad variable names.
+1	tracing	Explain how variables have a lifetime.
+1	tracing	Trace the values of variables in a program.
+1	tracing	Differentiate between assignment statements and equality comparisons.
+1	tracing	Recognize equivalent terminology for common variable operations.
+1	tracing	Determine whether a variable has been defined before it is used.
+1	modules	Explain how programs are executed step by step.
+1	modules	Differentiate between statements and expressions.
+1	comments	Use comments to explain the behavior of code.
+1	comments	Recognize synonymous names for the comment symbol in Python.
+1	comments	Avoid using comments by choosing good variable names.
+1	comments	Defend the depth, detail, and quantity of comments in a program.
+1	comments	Use comments to temporarily remove code from a program.
+1	comments	Trace code that incorporates comments.
+1	import	Define the terms module, package, and library.
+1	import	Write import statements to load variables from other modules.
+1	import	Interpret two kinds of import statements’ syntax.
+1	import	Create a new Python module.
+1	import	Explain the purpose of the Python Standard Library.
+1	strings	Define the concept of a string in Python.
+1	strings	Define the concept of characters in Python.
+1	strings	Use single, double, and triple quotes to create string literal values.
+1	strings	Define the concept of escape characters in Python.
+1	strings	Create strings that incorporate escape characters.
+1	strings	Differentiate between number values and strings involving numeric characters.
+1	strings	Differentiate between strings and variables.
+1	strings	Explain the purpose of having single, double, and triple quote strings instead of just a single kind of string.
+1	string_ops	List the operations that are allowed on strings in Python.
+1	string_ops	Explain how the addition, comparison, membership, and subscripting operators work on strings in Python.
+1	string_ops	Evaluate string operations involving addition, comparison, membership, and subscripting in Python.
+1	string_ops	Differentiate between indexing and slicing strings.
+1	string_ops	Choose appropriate indices to correctly index and slice strings.
+1	string_ops	Interpret negative indices in subscripts.
+1	errors	Define the term Error when it comes to coding.
+1	errors	Interpret a Python error message including the traceback.
+1	errors	List and describe common Python error types.
+1	errors	Debug simple errors in Python code.
+2	calling	Define and justify the use of functions.
+2	calling	Define critical terminology of functions including arguments and return values.
+2	calling	Write valid function calls with arguments.
+2	calling	List synonyms for calling a function.
+2	calling	Explain the importance of parentheses in writing function calls.
+2	calling	Compare and contrast programs and functions.
+2	calling	Write valid method calls on a value.
+2	calling	Explain how functions can be called.
+2	calling	Evaluate a function call to predict the returned value.
+2	builtins	List several built-in functions that are available in Python.
+2	builtins	Upon being given documentation for a built-in function, use that function.
+2	builtins	Define and contrast the terms parameters and arguments in the context of existing functions.
+2	builtins	Evaluate nested function and chained method calls.
+2	builtins	Evaluate complex expressions that involve function and method calls.
+2	builtins	Write code that involves `print` and `input` function calls.
+2	builtins	Explain how `print` and `input` interact with the terminal.
+2	builtins	Describe and use the four basic conversion functions (`int`, `str`, `float`, and `bool`).
+2	defining	Define syntactically correct functions.
+2	defining	Identify all the parts of a function including the header and body.
+2	defining	Define the terms parameter, return, header, body, call, definition, and name.
+2	defining	Write syntactically correct function calls for newly defined functions.
+2	defining	Use a `pass` statement to create an empty function.
+2	defining	Explain how arguments are assigned to parameters.
+2	defining	Explain the behavior of calling a function in terms of control and data flow.
+2	defining	Explain how a `return` statement interrupts control flow.
+2	defining	Trace simple function calls to user-defined functions.
+2	testing	Define the concept of a unit test.
+2	testing	Explain the purpose of unit testing.
+2	testing	Interpret a failed unit test.
+2	testing	Suggest general related cases of input for testing different types of values.
+2	testing	Upon being given a description of a function, create valid and thorough tests.
+2	testing	Evaluate if a collection of tests is valid and thorough.
+2	testing	List the order of steps when writing a function with regard to testing.
+2	debugging	Use a debugger to trace an incorrect program and predict its value.
+2	debugging	List the steps of the scientific method to approach debugging a program.
+2	debugging	Use Wolf Fence debugging to isolate the region of code with an error.
+2	debugging	Explain how Rubber Duck debugging helps identify an error with code.
+2	scopes	Define and differentiate the terms scope and body in the context of Python source code.
+2	scopes	Identify the bodies in a Python program.
+2	scopes	Identify the scopes in a Python program.
+2	scopes	Determine whether a variable is in a scope.
+2	scopes	Define and differentiate the concepts of global scope and local scope.
+2	scopes	Explain why functions return values, but not variables.
+2	scopes	Recall and explain the two scope rules.
+2	scopes	Explain the behavior of variables with the same name within and across scopes.
+2	scopes	Identify whether a variable is a global constant.
+2	scopes	Explain the danger of global variables.
+2	scopes	Explain the benefit of global constants.
+2	docstrings	Lists reasons to document code.
+2	docstrings	Create a single-line comment.
+2	docstrings	Create a multi-line comment that is syntactically valid.
+2	docstrings	Evaluate and justify how much documentation should be provided for a program.
+2	docstrings	Write a docstring for a function.
+2	docstrings	Interpret the docstring of a function.
+2	docstrings	Place a docstring correctly relative to the header and body of a function.
+2	flow	List the rules for scopes in Python.
+2	flow	Trace the value of variables, parameters, and arguments over function calls.
+2	flow	Evaluate nested function calls that may occur inside of function definitions.
+2	flow	Explain the concept of a stack frame.
+2	flow	Interpret stack frames for a given point in time of a program.
+2	flow	Write function calls that move data between function definitions, with and without temporary variables.
+3	syntax	Explain the purpose of `if` statements in Python.
+3	syntax	Identify the syntactic components of an `if` statement.
+3	syntax	Evaluate a conditional expression.
+3	syntax	Identify whether code is inside, before, or after the body of an `if` statement.
+3	syntax	Explain the purpose of an `else` body.
+3	syntax	Count the number of branches in a simple `if` statement.
+3	syntax	Trace the execution of an `if` statement with and without an `else` body.
+3	syntax	Explain how `if` statements can skip over lines of code during execution.
+3	truthiness	Explain the concept of Truthiness in Python.
+3	truthiness	Evaluate any expression in terms of Truthiness.
+3	truthiness	Simplify a comparison using the rules of Truthiness.
+3	truthiness	List the Falsey values for all the primitive types.
+3	truthiness	Recognize when Truthiness is involved accidentally in a conditional.
+3	truthiness	Describe examples where Truthiness can improve the readability of code.
+3	nesting	Write syntactically valid nested conditional statements.
+3	nesting	Count the number of branches in nested conditional statements.
+3	nesting	Determine the appropriate number of spaces in nested conditional statements.
+3	nesting	Trace the value of variables across nested conditional statements.
+3	nesting	Explain the purpose of `elif` statements.
+3	nesting	Justify whether a statement should be before, inside, or after an `if` statement.
+3	nesting	Differentiate between `elif` statements and chained `if` statements.
+3	nesting	Determine if two nested conditional structures are equivalent.
+3	nesting	Determine if an `if` statement inside of a function is redundant.
+3	nesting	Determine if an equality check is redundant.
+3	patterns	Determine if two complex nested control structures are functionality equivalent.
+3	patterns	Compare two equivalent control structures in terms of readability and robustness against programmer errors.
+3	patterns	Translate between nested `if` statements and conditions with `and` chains.
+3	patterns	Use a Defensive Guard or Early Return to avoid errors in programs.
+3	patterns	Trace the flow of multiple return statements into a function.
+3	patterns	Translate function logic between Multiple Return Spots and the Build-Up-Return styles.
+3	patterns	Use the Define-And-Refine pattern to avoid repetitive `else` statements.
+4	dataclasses	Define the concept of dataclasses in Python.
+4	dataclasses	Create a dataclass definition with fields.
+4	dataclasses	Write code that imports and uses the dataclass decorator.
+4	dataclasses	Create an instance of a dataclass.
+4	dataclasses	Explain the difference between a dataclass and an instance.
+4	dataclasses	Identify the fields of a dataclass, including their name and types.
+4	dataclasses	Write code that accesses the values in dataclass instance’s fields.
+4	returning_dataclasses	Define a function that returns an instance of a dataclass.
+4	returning_dataclasses	Explain the difference between a function returning a mutably updated instance compared to returning a new instance of a dataclass.
+4	returning_dataclasses	Define a function that converts a dataclass from one type to another type of dataclass.
+4	lists	Define the concept of the list type.
+4	lists	Write list literals, including both empty and non-empty lists.
+4	lists	Identify the element type of a non-empty list.
+4	lists	Predict the output of printing a list.
+4	lists	Recall that a list can be empty while still being a list.
+4	lists	Evaluate the truthiness of a list.
+4	lists	Interpret a stack/heap diagram involving a list.
+4	lists	Choose the appropriate parameter type and/or return type for a function that consumes and/or returns a list.
+4	lists	Differentiate between the terms list and array.
+4	list_ops	Write indexing and subscripting expressions to access data inside of a list.
+4	list_ops	Write membership tests to determine if elements are in a list.
+4	list_ops	Write equality tests to determine if two lists are equal.
+4	list_ops	Call append and pop methods to add and remove elements from a list.
+4	list_ops	Recall that you cannot use order comparison operators or math operators with lists.
+4	mutability	Explain the concept of mutability in Python.
+4	mutability	List whether each type of value is mutable or immutable.
+4	mutability	Write code to mutate a list or dataclass.
+4	mutability	Debug a list append that is incorrectly assigning.
+4	mutability	Trace the behavior of a function that mutates a parameter.
+6	loops	Explain the advantage of a `for` loop.
+6	loops	Trace the values of variables in a `for` loop.
+6	loops	Write a syntactically valid `for` loop.
+6	loops	Identify the type of the iteration variable in a `for` loop.
+6	loops	Describe how a `for` loop initializes an iteration variable.
+6	loops	Explain the relationship between the iteration variable and the iteration list.
+6	loops	Identify the code inside, before, and after the body of a `for` loop.
+6	loops	Describe the looping behavior of a `for` loop.
+6	loops	Recall that `for` loops do not have separate scope.
+6	loops	Interpret a stack/heap diagram to trace the values in a `for` loop.
+6	patterns	List and describe the filter, find, take, and min/max loop patterns.
+6	patterns	Use the filter pattern to remove elements from a list and count only certain elements from a list.
+6	patterns	Use the find pattern to get the first or last element in a list that matches a condition.
+6	patterns	Use the take pattern to get all the elements in a list until a condition is matched.
+6	patterns	Use the min/max pattern to get the highest or lowest element in a list.
+6	patterns	Incorporate a guard before the min/max pattern to avoid index errors.
+6	composition	Write code that composes multiple loop patterns.
+6	composition	Determine whether a function needs to directly loop or indirectly loop.
+6	composition	Determine the appropriate order that helper functions should be called in.
+6	composition	Use a guard to correctly compose filter/take patterns with min/max patterns.
+7	indexes	Explain the difference between iterating over indexes and iterating over values.
+7	indexes	Determine if a situation requires value iteration, index iteration, or iterating over both kinds.
+7	indexes	Use the `len` function to calculate the length of a list.
+7	indexes	Use the `range` function to create a sequence of integers from 0 to that number.
+7	indexes	Use the `enumerate` function to create a sequence of values and indexes from a list.
+7	indexes	Update specific values in a list via their index.
+7	indexes	Update a list of values via their index.
+7	indexes	Describe the tradeoff between copying a list and modifying a list.
+7	indexes	Describe the tradeoffs between working with lists indirectly through indexes as opposed to directly with values.
+7	indexes	Assign multiple variables at once to swap elements in a list.
+7	strings	Compare and contrast strings and lists in terms of mutability and available operations.
+7	strings	Use the `split` method to break a string into a list of strings based on a separator.
+7	strings	Use the `split` method to break a string into a list of strings based on whitespace.
+7	strings	Write a loop that iterates over a string character by character.
+7	strings	Write a loop that uses the result of the `split` method to iterate over chunks of a string.
+7	filesystems	Define the concepts of files and file systems.
+7	filesystems	Explain how files are organized into folders.
+7	filesystems	Interpret an absolute or relative path.
+7	filesystems	Define the concept of the current working directory.
+7	filesystems	Determine a relative path based off the current working directory and an absolute path.
+7	filesystems	Differentiate between the regular terminal and the Python terminal.
+7	filesystems	Use the `ls` command to list files in a directory or the current working directory.
+7	filesystems	Use the `cd` command to change the current working directory.
+7	filesystems	Use the `pwd` command to print the current working directory.
+7	files	Describe the purpose of files.
+7	files	Write code to open and close a file using functions and methods.
+7	files	Write code to read an entire file as a string.
+7	files	Write code to process a file line by line.
+7	files	List the operations available on a `File` object.
+7	files	Debug a `FileNotFoundError` using appropriate strategies.
+7	files	Process data from a file by converting values and removing extraneous whitespace characters.
+8	list_dataclasses	Describe how dataclasses can be nested inside of lists.
+8	list_dataclasses	Compare and contrast lists and dataclasses.
+8	list_dataclasses	Create a literal list of dataclass instances using constructor functions and list literal syntax.
+8	list_dataclasses	Write expressions that access the attributes of a specific element of a list of dataclasses.
+8	list_dataclasses	Determine the type and appropriate name for an iteration variable for a list of dataclasses.
+8	list_dataclasses	Write expressions that access the attributes of all the instances in a list of dataclasses inside a `for` loop.
+8	list_dataclasses	Define a function that consumes and potentially produces a list of dataclasses.
+8	list_dataclasses	Apply `for` loop patterns to operate on multiple fields of lists of dataclasses.
+8	list_dataclasses	Compose loop patterns together inside of functions that operate on lists of dataclasses.
+8	list_dataclasses	Distinguish between the list variable, iteration variable, and accumulation variable when processing a list of dataclasses.
+8	list_dataclasses	Develop appropriate test cases for functions that consume a list of dataclasses.
+8	list_dataclasses	Interpret a stack/heap diagram that visualizes a list of dataclasses being processed.
+8	2d_dataclasses	Describe how dataclasses can be nested as attributes of other dataclasses.
+8	2d_dataclasses	Describe how lists can be nested as attributes of dataclasses.
+8	2d_dataclasses	Create instances of dataclasses that have dataclasses inside.
+8	2d_dataclasses	Use attribute access to access data nested in multiple layers of dataclasses.
+8	2d_dataclasses	Use attribute access and list indexing to access data nested in lists inside of dataclasses.
+8	2d_dataclasses	Use temporary variables to organize nested attribute access.
+8	2d_dataclasses	Predict the behavior of updating nested attribute access, regular attribute access, and variables for values on the heap.
+8	2d_dataclasses	Interpret a stack/heap diagram that shows nested dataclasses.
+8	2d_dataclasses	Identify the order in which nested dataclasses should be defined.
+8	2d_dataclasses	Justify a particular level of nesting when designing dataclasses.
+8	2d_lists	Describe how lists can be nested inside of lists.
+8	2d_lists	List synonyms of nested lists.
+8	2d_lists	Identify the outer and inner element type of 2-dimensional lists.
+8	2d_lists	Write nested loops to iterate over a multi-dimensional list.
+8	2d_lists	Adapt loop patterns to multi-dimensional lists.
+8	2d_lists	Iterate over the indexes of multi-dimensional lists.
+8	2d_lists	Access and update specific elements of a multi-dimensional list.
+8	2d_lists	Use decomposition to break up complex multi-dimensional list operations.
+8	heavy	Describe how lists and dataclasses can be generally nested an arbitrary number of times.
+8	heavy	Distinguish between primitive and composite data types.
+8	heavy	Define dataclasses that have lists and dataclasses inside multiple layers.
+8	heavy	Create instances of heavily nested data.
+8	heavy	Write functions that process heavily nested data.
+8	heavy	Use `for` loops, indexing, subscripting, and attribute access to process heavily nested data.
+8	heavy	Interpret a class diagram to determine the control structures needed to process heavily nested data.
+8	heavy	Use temporary variables to break up long attribute access chains.
+9	while	Write a syntactically correct `while` loop.
+9	while	Trace the execution of a `while` loop.
+9	while	Describe the problems associated with infinite loops.
+9	while	Compare and contrast `for` loops and `while` loops.
+9	while	Compare and contrast `if` statements and `while` loops.
+9	while	Recognize and convert a `while` loop that has an equivalent `for` loop.
+9	while	Determine if a `while` loop will not be executed.
+9	while_patterns	Trace a numeric `while` loop.
+9	while_patterns	Use a `while` loop to handle potentially incorrect user input.
+9	while_patterns	Use the Do-Until loop pattern to delay a `while` loop’s conditional check.
+9	while_patterns	Use the Do-Until loop pattern to avoid redundant user input.
+9	while_patterns	Use a `while` loop to repeatedly process user input to dispatch commands in a Read-Evaluate-Print-Loop.
+9	while_patterns	Explain the purpose of intentional infinite loops with the Main Game Loop pattern.
+9	while_patterns	Trace stochastic behavior of Random Loops.
+9	while_patterns	Trace complex list iteration using a `while` loop.
+9	complexity	List the three main questions that programmers use to evaluate a program.
+9	complexity	Define the terms correctness, readability, and efficiency.
+9	complexity	Compare and contrast different ways of measuring the performance of a program.
+9	complexity	Exactly measure the execution time of a program using a clock.
+9	complexity	Explain how execution time can be related to the size of the input to the program.
+9	complexity	Explain how the RAM model works and its limitations.
+9	complexity	Describe the number of steps that a general kind of statement will take.
+9	complexity	Estimate the number of steps a program takes to execute using the RAM model.
+9	complexity	Give examples of code with constant, linear, and quadratic time relationships.
+9	complexity	Identify programs as taking constant, linear, or quadratic time.
+9	sorting	Define the sorting and searching problems.
+9	sorting	Compare and contrast the sorting and searching problems.
+9	sorting	Explain how linear and binary search work.
+9	sorting	Explain how bubble sort and insertion sort work.
+9	sorting	Explain the advantages and limitations of binary search.
+9	sorting	Explain how the values of a list affect the speed of insertion sort.
+9	sorting	Calculate the base-2 logarithm of a number.
+11	recursion	Explain the concept of recursion.
+11	recursion	Define the vocabulary of tree data structures.
+11	recursion	Explain the concept of inheritance.
+11	recursion	Determine the attributes of a dataclass inheriting from another dataclass.
+11	recursion	Define a BinaryTree using dataclasses.
+11	recursion	Create an instance of a binary tree.
+11	recursion	Trace recursive functions.
+11	recursion	Create recursive functions.
+11	recursion	Identify the type of variables and expressions in recursive functions.
+11	recursion	List the key parts of recursive functions.
